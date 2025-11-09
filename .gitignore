@@ -9,6 +9,7 @@ out/
 
 # Dotenv file
 .env
+.env.example
 
 # Dependencies (if you ever use npm/yarn)
 node_modules/
